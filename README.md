@@ -1,6 +1,6 @@
 <div align ="center">
   
-  # MBTI TEST
+  # MBTI TEST v0.2.5
   ### Find Your True Identity
 </div>
 
